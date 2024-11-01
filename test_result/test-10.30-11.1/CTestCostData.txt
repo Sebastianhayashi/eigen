@@ -1,0 +1,10 @@
+btl_eigen3_linear 1 301.739
+btl_eigen3_vecmat 1 1063.32
+btl_eigen3_matmat 1 8608.42
+btl_eigen3_adv 1 2020.08
+btl_tensor_linear 1 199.132
+btl_tensor_vecmat 1 230.457
+btl_tensor_matmat 1 3447.35
+btl_openblas 1 3962.49
+btl_ublas 1 88031.1
+---
